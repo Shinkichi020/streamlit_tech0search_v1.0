@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4F8BF9"              # ボタン・リンクなどのアクセント色
+backgroundColor = "#0F0F0F"           # メイン画面の背景色
+secondaryBackgroundColor = "#1F1F1F"  # ★サイドバー・ウィジェットの背景色
+textColor = "#E5E1E5"                 # 文字色
+font = "sans serif"
